@@ -6,7 +6,7 @@ class ProductTag extends Model {}
 
 ProductTag.init(
   {
-    // dHW13 TODO: define columns
+    // dHW13 TODO define columns
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,

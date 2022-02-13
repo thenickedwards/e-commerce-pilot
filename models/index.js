@@ -10,19 +10,19 @@ Product.belongsTo(Category, {
   onDelete: "CASCADE",
 });
 
-// HW13 TODO: Categories have many Products
+// HW13 TODO Categories have many Products
 Category.hasMany(Product, {
   foreignKey: "category_id",
 });
 
-// HW13 TODO: Products belongToMany Tags (through ProductTag)
+// HW13 TODO Products belongToMany Tags (through ProductTag)
 Product.belongsToMany(Tag, {
   through: ProductTag,
   foreignKey: "product_id",
   as: "product_tags",
 });
 
-// HW13 TODO: Tags belongToMany Products (through ProductTag)
+// HW13 TODO Tags belongToMany Products (through ProductTag)
 Tag.belongsToMany(Product, {
   through: ProductTag,
   foreignKey: "tag_id",

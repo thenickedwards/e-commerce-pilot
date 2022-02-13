@@ -6,7 +6,7 @@ class Tag extends Model {}
 
 Tag.init(
   {
-    // HW13 TODO: define columns
+    // HW13 TODO define columns
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,
