@@ -15,7 +15,7 @@ Additional backend code for E-Commerce Pilot written per acceptance criteria in 
 URL for GitHub repo: https://github.com/thenickedwards/e-commerce-pilot
 
 ## Demo Video
-This video demonstrates how to use the Employee Tracker application (also found at URL).
+This video demonstrates how to use the Employee Tracker application (also found at: https://www.awesomescreenshot.com/video/7360431?key=24f6409315830d90d49b1be13d51bcf8).
 
 EMBEDDED VIDEO
 
