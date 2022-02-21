@@ -1,7 +1,7 @@
 # e-commerce-pilot
 Homework 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
-Additional backend code for E-Commerce Pilot written per acceptance criteria in [provided_assets/W12-hw_readme.md](/provided_assets/W12-hw_readme.md).
+Additional backend code for E-Commerce Pilot written per acceptance criteria in [provided_assets/W13-hw_readme.md](/provided_assets/W13-hw_readme.md).
 
 ## Work Done
 * Supplemental backend code written for existing e-sommerce application
